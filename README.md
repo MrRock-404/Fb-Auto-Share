@@ -9,3 +9,5 @@ This tools Fb Auto Share Sent In Bot
 # cd Fb-Auto-Share
 
 # python Fb-Auto-Share.py
+![](https://github.com/MrRock-404/Fb-Auto-Share/blob/main/Screenshot_20240111-133627.png)
+ 
